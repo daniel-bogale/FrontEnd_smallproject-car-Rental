@@ -25,7 +25,7 @@ for (let i = 0; i < navbarLinks.length; i++) {
 
 
 /**
- * header active on scroll
+ * active on scroll header
  */
 
 const header = document.querySelector("[data-header]");
